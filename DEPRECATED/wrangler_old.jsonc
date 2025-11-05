@@ -1,0 +1,30 @@
+{
+	"name": "gn-gizzard-raffle",
+	"main": ".svelte-kit/cloudflare/_worker.js",
+	"compatibility_date": "2025-01-01",
+	"compatibility_flags": ["nodejs_compat"],
+	"assets": {
+		"binding": "ASSETS",
+		"directory": ".svelte-kit/cloudflare"
+	},
+	"observability": {
+		"enabled": true,
+		"head_sampling_rate": 1
+	},
+	"kv_namespaces": [
+		{
+			"binding": "RAFFLE_ENTRIES",
+			"id": "23571bf98dd14076a0163ece3c09dec4",
+			"preview_id": "1268edd1b5004c08bfd0394695ec06dc"
+		}
+	],
+	"durable_objects": {
+		"bindings": [
+			{
+				"name": "CANVAS_ROOM",
+				"class_name": "CanvasRoom",
+				"script_name": "gn-gizzard-raffle-worker"
+			}
+		]
+	}
+}

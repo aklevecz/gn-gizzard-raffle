@@ -1,0 +1,20 @@
+{
+	"name": "gn-gizzard-raffle-worker",
+	"main": "src/index.ts",
+	"compatibility_date": "2024-01-01",
+	"compatibility_flags": ["nodejs_compat"],
+	"durable_objects": {
+		"bindings": [
+			{
+				"name": "CANVAS_ROOM",
+				"class_name": "CanvasRoom"
+			}
+		]
+	},
+	"migrations": [
+		{
+			"tag": "v1",
+			"new_classes": ["CanvasRoom"]
+		}
+	]
+}
