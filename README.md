@@ -1,10 +1,10 @@
 # rPETro Dragonic Apocalypse - Raffle Site
 
-A raffle website for King Gizzard & The Lizard Wizard's PetroDragonic Apocalypse album - the world's first vinyl record created from 100% recycled plastic (rPET), manufactured by Good Neighbor.
+A raffle website for King Gizzard & The Lizard Wizard's PetroDragonic Apocalypse album - the world's first 12" EcoSonic Record created from 100% recycled plastic (rPET), manufactured by Good Neighbor.
 
 ## Features
 
-- **Interactive 3D Vinyl Cube**: WebGL-powered rotating vinyl visualization using Three.js
+- **Interactive 3D 12" EcoSonic Record Cube**: WebGL-powered rotating 12" EcoSonic Record visualization using Three.js
 - **Raffle Entry System**: Users can enter to purchase one of 70 remaining copies
 - **Song Selection**: Participants select their favorite track from the album
 - **Responsive Design**: Optimized for desktop and mobile devices

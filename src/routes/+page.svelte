@@ -23,7 +23,7 @@
 
 <svelte:head>
 	<title>rPETro Dragonic Apocalypse - Limited Edition Raffle</title>
-	<meta name="description" content="Enter for your chance to purchase one of the remaining 70 copies of the world's first vinyl record created from 100% recycled plastic (rPET). King Gizzard & The Lizard Wizard's PetroDragonic Apocalypse, made by Good Neighbor." />
+	<meta name="description" content="Enter for your chance to purchase one of the remaining 70 copies of the world's first EcoSonic Record created from 100% recycled plastic (rPET). King Gizzard & The Lizard Wizard's PetroDragonic Apocalypse, made by Good Neighbor." />
 
 	<!-- Favicon -->
 	<link rel="icon" type="image/jpeg" href="/rat_smoller.jpg" />
@@ -31,13 +31,13 @@
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="rPETro Dragonic Apocalypse - Limited Edition Raffle" />
-	<meta property="og:description" content="Enter for your chance to purchase one of the remaining 70 copies of the world's first vinyl record created from 100% recycled plastic (rPET)." />
+	<meta property="og:description" content="Enter for your chance to purchase one of the remaining 70 copies of the world's first EcoSonic Record created from 100% recycled plastic (rPET)." />
 	<meta property="og:image" content="/lizard_cover_1024.jpg" />
 
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="rPETro Dragonic Apocalypse - Limited Edition Raffle" />
-	<meta name="twitter:description" content="Enter for your chance to purchase one of the remaining 70 copies of the world's first vinyl record created from 100% recycled plastic (rPET)." />
+	<meta name="twitter:description" content="Enter for your chance to purchase one of the remaining 70 copies of the world's first EcoSonic Record created from 100% recycled plastic (rPET)." />
 	<meta name="twitter:image" content="/lizard_cover_1024.jpg" />
 </svelte:head>
 
